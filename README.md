@@ -17,7 +17,7 @@
   <hr />
 </div>
 
-# PayPal-JS Standard-Checkout-Sample
+# PayPal JS Standard-Checkout-Sample
 
 This code sample shows how to set up standard payments on your checkout page so your buyers can pay with PayPal, debit and credit cards, Pay Later options, Venmo, and alternative payment methods.This code sample uses the [JavaScript SDK](https://developer.paypal.com/sdk/js/reference). The client-side sample code adds payment buttons to your website that capture the payment immediately. If you need to store the resulting transaction details in a database or want to fulfill orders automatically, use the included full-stack example code instead.
 
